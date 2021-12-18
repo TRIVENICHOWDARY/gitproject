@@ -1,0 +1,22 @@
+{
+    "cards":[{
+        "img":"redmi.jfif",
+        "name":"redmi",
+        "price":"13,999",
+        "offer":"11,499",
+        "button":"View"
+    },{
+        "img":"apple.jfif",
+        "name":"apple",
+        "price":"85,999",
+        "offer":"74,499",
+        "button":"View"
+    },{
+        "img":"realme.jfif",
+        "name":"realme",
+        "price":"19,999",
+        "offer":"16,499",
+        "button":"View"
+    }
+   ]
+}
